@@ -379,6 +379,7 @@ html, body
 	{
 		padding: 5em 0em;
 		text-align: center;
+		border-radius: 20px;
 	}
 	
 	#page .button
@@ -395,6 +396,7 @@ html, body
 		background: #af1641;
 		color: rgba(255,255,255,.8);
 		text-align: center;
+		border-radius: 20px;
 	}
 
 	#featured a
