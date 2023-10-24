@@ -24,6 +24,14 @@ html, body
 		font-weight: 700;
 		color: #2B3F48;
 	}
+
+	h3{
+		color: #af1641;
+	}
+	#list{
+		text-align: center;
+		font-weight: bold;
+	}
 	
 	p, ol, ul
 	{
@@ -460,6 +468,13 @@ html, body
 		text-align: center;
 		font-size: 3em;
 	}
-
-
-
+	.colcontent{
+		background-color: white;
+		color: #af1641;
+		border-radius: 20px;
+		padding: 1%;
+		width:30em;
+		height: 450px;
+		margin: auto;
+		display: block;
+	}

@@ -17,12 +17,16 @@ p{
 	font-size: 110%;
 }
 
-h1, h2, h3
+h1, h2
 {
 	margin: 0;
 	padding: 0;
 	font-weight: 700;
 	color: #2B3F48;
+}
+
+h3{
+	color: #af1641;
 }
 
 p, ol, ul
@@ -392,6 +396,7 @@ ul.contact li a.icon-rss:before { background: #F2600B; }
 	background: #af1641;
 	color: rgba(255,255,255,.8);
 	text-align: center;
+	border-radius: 20px;
 }
 
 #featured a
@@ -454,4 +459,14 @@ border-radius: 8px;
 	margin-bottom: 0.5em;
 	text-align: center;
 	font-size: 3em;
+}
+.colcontent{
+	background-color: white;
+	color: #af1641;
+	border-radius: 20px;
+	padding: 1%;
+	width:20em;
+	height: 550px;
+	margin: auto;
+	display: block;
 }
