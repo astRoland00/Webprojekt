@@ -7,7 +7,7 @@
 	{
 		margin: 0px;
 		padding: 0px;
-		background: #333333;
+		background: #ffffff;
 		font-family: 'Varela', sans-serif;
 		font-size: 11pt;
 		font-weight: 300;
@@ -392,7 +392,7 @@
 	#featured
 	{
 		overflow: hidden;
-		padding: 5em 0em;
+		padding: 2em 0em;
 		background: #af1641;
 		color: rgba(255,255,255,.8);
 		text-align: center;

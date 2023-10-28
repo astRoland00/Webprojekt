@@ -7,7 +7,7 @@ html, body
 	{
 		margin: 0px;
 		padding: 0px;
-		background: #333333;
+		background: #ffffff;
 		font-family: 'Varela', sans-serif;
 		font-size: 11pt;
 		font-weight: 300;
@@ -400,7 +400,7 @@ html, body
 	#featured
 	{
 		overflow: hidden;
-		padding: 5em 0em;
+		padding: 2em 0em;
 		background: #af1641;
 		color: rgba(255,255,255,.8);
 		text-align: center;
@@ -473,8 +473,22 @@ html, body
 		color: #af1641;
 		border-radius: 20px;
 		padding: 1%;
-		width:30em;
-		height: 450px;
+		width:29em;
+		height: 500px;
 		margin: auto;
 		display: block;
+	}
+	.rowcontent{
+		background-color: white;
+		color: #af1641;
+		border-radius: 20px;
+		padding: 1%;
+		height: 240px;
+		margin: auto;
+		display: block;
+		width: 95%;
+	}
+	a{
+		color: #af1641;
+		text-align: justify;
 	}

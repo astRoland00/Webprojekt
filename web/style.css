@@ -388,6 +388,7 @@
 		background: #af1641;
 		color: rgba(255,255,255,.8);
 		text-align: center;
+		border-radius: 20px;
 	}
 
 	#featured a
@@ -431,7 +432,7 @@
 	#extra
 	{
 		overflow: hidden;
-		padding: 5em 0em;
+		padding: 1em 0em;
 	}
 	
 	#extra .title
@@ -446,3 +447,16 @@
 	float:left;
 }
 
+.rowcontent{
+	background-color: white;
+	color: #af1641;
+	border-radius: 20px;
+	padding: 1%;
+	height: 450px;
+	margin: auto;
+	display: block;
+	width: 95%;
+}
+.pictures{
+	border-radius: 20px;
+}
